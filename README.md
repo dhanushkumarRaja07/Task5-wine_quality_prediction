@@ -1,2 +1,1 @@
-# Task5-wine_quality_prediction
-TechnoHacks Ml intern
+# TechnoHacks Edutech ML(Machine Learning) Intern
